@@ -1,2 +1,0 @@
-Seller;1;Admin;;admin@shop.pl;System;admin
-Client;4;Jan;Kowalski;Jan@shop.pl;Kielnarowa;Jan;730;True
